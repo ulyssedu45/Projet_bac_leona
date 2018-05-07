@@ -1,0 +1,8 @@
+{
+  "name": "Projet_bac_leona",
+  "app_id": "82fe4004",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
